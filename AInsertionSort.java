@@ -17,7 +17,7 @@ public class AInsertionSort
                     myNumbers[pos] = tempVal;
                 }
             }
-            System.out.println(Arrays.toString(myNumbers));
+            //System.out.println(Arrays.toString(myNumbers));
         }
         System.out.println(Arrays.toString(myNumbers));
     }
